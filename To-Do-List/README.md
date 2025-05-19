@@ -1,5 +1,7 @@
 # To-Do List App
 
+A simple React-based To-Do List Application using Tailwind CSS and Vite.
+
 To run this:-
 1. Simply Download Zip or Pull the folder
 2. Extract Zip
